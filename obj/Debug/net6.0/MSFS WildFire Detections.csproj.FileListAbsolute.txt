@@ -1,0 +1,30 @@
+C:\MSFS Applications\MSFS WildFire Detections\MSFS WildFire Detections\bin\Debug\net6.0\MSFS WildFire Detections.exe
+C:\MSFS Applications\MSFS WildFire Detections\MSFS WildFire Detections\bin\Debug\net6.0\MSFS WildFire Detections.deps.json
+C:\MSFS Applications\MSFS WildFire Detections\MSFS WildFire Detections\bin\Debug\net6.0\MSFS WildFire Detections.runtimeconfig.json
+C:\MSFS Applications\MSFS WildFire Detections\MSFS WildFire Detections\bin\Debug\net6.0\MSFS WildFire Detections.dll
+C:\MSFS Applications\MSFS WildFire Detections\MSFS WildFire Detections\bin\Debug\net6.0\MSFS WildFire Detections.pdb
+C:\MSFS Applications\MSFS WildFire Detections\MSFS WildFire Detections\obj\Debug\net6.0\MSFS WildFire Detections.csproj.AssemblyReference.cache
+C:\MSFS Applications\MSFS WildFire Detections\MSFS WildFire Detections\obj\Debug\net6.0\MSFS WildFire Detections.GeneratedMSBuildEditorConfig.editorconfig
+C:\MSFS Applications\MSFS WildFire Detections\MSFS WildFire Detections\obj\Debug\net6.0\MSFS WildFire Detections.AssemblyInfoInputs.cache
+C:\MSFS Applications\MSFS WildFire Detections\MSFS WildFire Detections\obj\Debug\net6.0\MSFS WildFire Detections.AssemblyInfo.cs
+C:\MSFS Applications\MSFS WildFire Detections\MSFS WildFire Detections\obj\Debug\net6.0\MSFS WildFire Detections.csproj.CoreCompileInputs.cache
+C:\MSFS Applications\MSFS WildFire Detections\MSFS WildFire Detections\obj\Debug\net6.0\MSFS WildFire Detections.dll
+C:\MSFS Applications\MSFS WildFire Detections\MSFS WildFire Detections\obj\Debug\net6.0\refint\MSFS WildFire Detections.dll
+C:\MSFS Applications\MSFS WildFire Detections\MSFS WildFire Detections\obj\Debug\net6.0\MSFS WildFire Detections.pdb
+C:\MSFS Applications\MSFS WildFire Detections\MSFS WildFire Detections\obj\Debug\net6.0\MSFS WildFire Detections.genruntimeconfig.cache
+C:\MSFS Applications\MSFS WildFire Detections\MSFS WildFire Detections\obj\Debug\net6.0\ref\MSFS WildFire Detections.dll
+C:\MSFS Applications\MSFS WildFire Detections\obj\Debug\net6.0\MSFS WildFire Detections.csproj.AssemblyReference.cache
+C:\MSFS Applications\MSFS WildFire Detections\obj\Debug\net6.0\MSFS WildFire Detections.GeneratedMSBuildEditorConfig.editorconfig
+C:\MSFS Applications\MSFS WildFire Detections\obj\Debug\net6.0\MSFS WildFire Detections.AssemblyInfoInputs.cache
+C:\MSFS Applications\MSFS WildFire Detections\obj\Debug\net6.0\MSFS WildFire Detections.AssemblyInfo.cs
+C:\MSFS Applications\MSFS WildFire Detections\obj\Debug\net6.0\MSFS WildFire Detections.csproj.CoreCompileInputs.cache
+C:\MSFS Applications\MSFS WildFire Detections\obj\Debug\net6.0\MSFS WildFire Detections.dll
+C:\MSFS Applications\MSFS WildFire Detections\obj\Debug\net6.0\refint\MSFS WildFire Detections.dll
+C:\MSFS Applications\MSFS WildFire Detections\obj\Debug\net6.0\MSFS WildFire Detections.pdb
+C:\MSFS Applications\MSFS WildFire Detections\bin\Debug\net6.0\MSFS WildFire Detections.exe
+C:\MSFS Applications\MSFS WildFire Detections\bin\Debug\net6.0\MSFS WildFire Detections.deps.json
+C:\MSFS Applications\MSFS WildFire Detections\bin\Debug\net6.0\MSFS WildFire Detections.runtimeconfig.json
+C:\MSFS Applications\MSFS WildFire Detections\bin\Debug\net6.0\MSFS WildFire Detections.dll
+C:\MSFS Applications\MSFS WildFire Detections\bin\Debug\net6.0\MSFS WildFire Detections.pdb
+C:\MSFS Applications\MSFS WildFire Detections\obj\Debug\net6.0\MSFS WildFire Detections.genruntimeconfig.cache
+C:\MSFS Applications\MSFS WildFire Detections\obj\Debug\net6.0\ref\MSFS WildFire Detections.dll
